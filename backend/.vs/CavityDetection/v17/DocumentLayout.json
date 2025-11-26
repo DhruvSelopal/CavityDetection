@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\gitHub\\CavityDetection\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5D7465-42F5-20FD-031C-CE408FB728AA}|CavityDetection.csproj|c:\\users\\acer\\desktop\\github\\cavitydetection\\backend\\controllers\\rasberypicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5D7465-42F5-20FD-031C-CE408FB728AA}|CavityDetection.csproj|solutionrelative:controllers\\rasberypicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5D7465-42F5-20FD-031C-CE408FB728AA}|CavityDetection.csproj|c:\\users\\acer\\desktop\\github\\cavitydetection\\backend\\controllers\\webcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5D7465-42F5-20FD-031C-CE408FB728AA}|CavityDetection.csproj|solutionrelative:controllers\\webcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5D7465-42F5-20FD-031C-CE408FB728AA}|CavityDetection.csproj|c:\\users\\acer\\desktop\\github\\cavitydetection\\backend\\models\\dtos\\userupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5D7465-42F5-20FD-031C-CE408FB728AA}|CavityDetection.csproj|solutionrelative:models\\dtos\\userupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5D7465-42F5-20FD-031C-CE408FB728AA}|CavityDetection.csproj|c:\\users\\acer\\desktop\\github\\cavitydetection\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5D7465-42F5-20FD-031C-CE408FB728AA}|CavityDetection.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RasberyPiController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\gitHub\\CavityDetection\\backend\\Controllers\\RasberyPiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RasberyPiController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\gitHub\\CavityDetection\\backend\\Controllers\\RasberyPiController.cs",
+              "RelativeToolTip": "Controllers\\RasberyPiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T19:03:24.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\gitHub\\CavityDetection\\backend\\models\\dtos\\UserUpdate.cs",
+              "RelativeDocumentMoniker": "models\\dtos\\UserUpdate.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\gitHub\\CavityDetection\\backend\\models\\dtos\\UserUpdate.cs",
+              "RelativeToolTip": "models\\dtos\\UserUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T18:56:52.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\gitHub\\CavityDetection\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\gitHub\\CavityDetection\\backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:05:15.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\gitHub\\CavityDetection\\backend\\Controllers\\WebController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WebController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\gitHub\\CavityDetection\\backend\\Controllers\\WebController.cs",
+              "RelativeToolTip": "Controllers\\WebController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:40:23.123Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
